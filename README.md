@@ -242,8 +242,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 <div align="center">
 
-Made with ❤️ and SwiftUI
-
-⭐ **Wenn dir das Projekt gefällt, hinterlasse einen Stern!** ⭐
+Made with ❤️ by Ilya Jafari
 
 </div>
